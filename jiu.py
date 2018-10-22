@@ -9,3 +9,4 @@ for i in range(1,10):
 		print('{}x{}={}\t'.format(j,i,i*j),end='')
 	print()
 print('good good study, day day up')
+print('Hello World')
