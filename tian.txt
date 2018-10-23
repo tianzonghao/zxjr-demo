@@ -1,5 +1,0 @@
-Git has log.
-Git has rm.
-Git has branch.
-git has commit.
-Git has push.
